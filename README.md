@@ -4,3 +4,4 @@ This application show top 10 updated bbc channel news and also link you to the o
 
 ## Live Working Project Url
 
+https://hamzijerry.github.io/Jerry-News-App/
