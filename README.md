@@ -5,3 +5,5 @@ This application show top 10 updated bbc channel news and also link you to the o
 ## Live Working Project Url
 
 https://hamzijerry.github.io/Jerry-News-App/
+
+### Note: Its not showing news because of api used to render news accordian.
